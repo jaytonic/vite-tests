@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template>
-  <RouterView />
+  <div class="min-h-screen w-full flex flex-column">
+    <RouterView />
+  </div>
 </template>
 
 <style>

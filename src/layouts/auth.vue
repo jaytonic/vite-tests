@@ -1,8 +1,8 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
-  <div>
-    <h1>auth layout</h1>
+  <div class="min-h-screen w-full flex flex-column">
     <router-view></router-view>
   </div>
 </template>
